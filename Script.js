@@ -1,3 +1,4 @@
+import { SpeedInsights } from "@vercel/speed-insights/next"
 const container = document.querySelector('.container');
 const search = document.querySelector('.searchbox button');
 const weatherBox = document.querySelector('.weatherbox');
